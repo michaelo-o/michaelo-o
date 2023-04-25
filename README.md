@@ -105,6 +105,9 @@
 
 <br/>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1chae-l&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=m1chae-l&&style=flat-square" align="center" />
