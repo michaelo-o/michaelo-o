@@ -101,7 +101,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=m1chae-l&show_icons=true&count_private=true&hide_border=true" align="center" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1chae-l&hide_border=true&layout=compact" align="left" />  </div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=m1chae-l&show_icons=true&count_private=true&hide_border=true" align="center" />   </div>  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1chae-l&hide_border=true&layout=compact" align="left" /></div>
 
 <br/>  
  
