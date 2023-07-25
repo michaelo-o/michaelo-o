@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on [DevCrib (E-learning Site)](https://devcribold.vercel.app/)    
   
 
-- 🌱 I’m currently learning Nextjs, Framer Motion.
+- 🌱 I’m currently learning Nextjs, and Framer Motion.
   
   
 
