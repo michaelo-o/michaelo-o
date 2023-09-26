@@ -24,7 +24,7 @@
 - 📃Check out my [resume](https://drive.google.com/file/d/1ikdg2HdcgyUIR5noFSkVHsXcQHpojw2y/view?usp=sharing)  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces, and i prefer Supabase to Firebase.
   
 
 <br/>  
