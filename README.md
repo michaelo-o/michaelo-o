@@ -14,10 +14,10 @@
 ## <div align="center">Front-end Developer; React / Nextjs</div>  
   
 
-- 🔭 I’m currently working on [DevCrib (E-learning Site)](https://devcribold.vercel.app/), [Grandview Apartments (Unofficial Site)](https://gvaptx.vercel.app/), and [GvTech Clone](https://gvtechclone.vercel.app/).  
+- 🔭 I’m currently working on [DevCrib (E-learning Site)](https://devcribold.vercel.app/), and [Grandview Apartments (Unofficial Site)](https://gvaptx.vercel.app/).
   
 
-- 🌱 I’m currently learning Nextjs, and Framer Motion, as well as refreshing my Modern JavaScript Knowledge.
+- 🌱 I’m currently learning Nextjs 13, and Framer Motion, as well as refreshing my Modern JavaScript Knowledge.
   
   
 
