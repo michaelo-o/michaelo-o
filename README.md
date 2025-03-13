@@ -24,6 +24,9 @@
 - 📃Check out my [resume](https://drive.google.com/file/d/1ikdg2HdcgyUIR5noFSkVHsXcQHpojw2y/view?usp=sharing)  
   
 
+- 📃Check out my [Portfolio](https://mikeokwuosah.vercel.app/)  
+
+
 - ⚡ Fun fact: I use tabs over spaces and prefer Supabase to Firebase.
   
 
