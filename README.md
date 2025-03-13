@@ -14,7 +14,7 @@
 ## <div align="center">Front-end Developer; React / Nextjs</div>  
   
 
-- 🔭 I’m currently working on [DevCrib (E-learning Site)](https://devcribold.vercel.app/), and [Grandview Apartments (Unofficial Site)](https://gvaptx.vercel.app/).
+- 🔭 I’m currently working on [DevCrib (E-learning Site)](https://devcribold.vercel.app/), and [My Portfolio](https://mike-okwuosah.vercel.app/).
   
 
 - 🌱 I’m currently learning Nextjs 15 and refreshing my Modern JavaScript Knowledge.
