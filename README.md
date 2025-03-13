@@ -17,14 +17,14 @@
 - 🔭 I’m currently working on [DevCrib (E-learning Site)](https://devcribold.vercel.app/), and [Grandview Apartments (Unofficial Site)](https://gvaptx.vercel.app/).
   
 
-- 🌱 I’m currently learning Nextjs 13, and Framer Motion, as well as refreshing my Modern JavaScript Knowledge.
+- 🌱 I’m currently learning Nextjs 15 and refreshing my Modern JavaScript Knowledge.
   
   
 
 - 📃Check out my [resume](https://drive.google.com/file/d/1ikdg2HdcgyUIR5noFSkVHsXcQHpojw2y/view?usp=sharing)  
   
 
-- ⚡ Fun fact: I use tabs over spaces, and I prefer Supabase to Firebase.
+- ⚡ Fun fact: I use tabs over spaces and prefer Supabase to Firebase.
   
 
 <br/>  
@@ -61,8 +61,8 @@
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
+<!-- <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div> -->
 
 </td></tr></table>  
 
